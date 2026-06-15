@@ -7,7 +7,7 @@ import {
 } from "react-router-dom";
 import { AuthProvider, useAuth } from "./AuthContext";
 import { CartProvider } from "./CartContext";
-import Navbar from "./components/NavBar";
+import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
 import AuthPage from "./pages/AuthPage";
 import Cart from "./pages/Cart";
